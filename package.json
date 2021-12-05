@@ -20,5 +20,8 @@
     "nodemon": "^2.0.15"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
 }
