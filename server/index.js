@@ -10,7 +10,7 @@ import postRoutes from './routes/posts.js';
 import userRoutes from './routes/user.js';
 
 const app = express();
-dotenv.config({path:'./.env'})
+// dotenv.config({path:'./.env'})
 const CONNECTION_URL = process.env.REACT_APP_CONNECTION_URL       // process.env.REACT_APP_CONNECTION_URL
 // console.log(process.env.REACT_APP_CONNECTION_URL)
 
